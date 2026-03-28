@@ -1,4 +1,4 @@
-The Mathematics Behind Modern AI
+# The Mathematics Behind Modern AI
 
 Code, notebooks, exercises, and figures for the book The Mathematics Behind Modern AI.
 
