@@ -9,7 +9,7 @@ Change values. Run code. Observe behavior.
 
 ---
 
-## 🧪 1. Scaling an Embedding
+## 1. Scaling an Embedding
 
 Open the NumPy notebook and go to the section on operations.
 
@@ -28,7 +28,7 @@ Write a short note describing what scaling does geometrically.
 
 ---
 
-## 🧪 2. Shifting an Embedding
+## 2. Shifting an Embedding
 
 In the NumPy notebook, add a constant value to the embedding.
 
@@ -47,7 +47,7 @@ Write a short note describing what shifting means geometrically.
 
 ---
 
-## 🧪 3. Combining Operations
+##  3. Combining Operations
 
 Apply both scaling and shifting to the same embedding.
 
@@ -63,7 +63,7 @@ What does this tell you about operations on vectors?
 
 ---
 
-## 🧪 4. Precision Experiment
+##  4. Precision Experiment
 
 In the NumPy notebook, convert the same embedding into:
 
@@ -82,7 +82,7 @@ Write a short note on why this matters in large AI models.
 
 ---
 
-## 🧪 5. Weight Update Sensitivity
+##  5. Weight Update Sensitivity
 
 In the weight update section, modify:
 
@@ -103,7 +103,7 @@ Observe:
 
 ---
 
-## 🧪 6. Visualizing an Embedding
+##  6. Visualizing an Embedding
 
 Take the first two dimensions of an embedding and plot them as a point in 2D space.
 
@@ -117,7 +117,7 @@ Describe how the point moves.
 
 ---
 
-## 🧪 7. Direction of Movement
+##  7. Direction of Movement
 
 Change the sign of the gradient in the weight update rule.
 
@@ -132,7 +132,7 @@ Write a short note explaining what determines the direction of movement.
 
 ---
 
-## 🧪 8. Multiple Updates
+##  8. Multiple Updates
 
 Repeat the weight update several times in a loop.
 
@@ -146,7 +146,7 @@ Observe:
 
 ---
 
-## 🎯 Final Task
+##  Final Task
 
 Choose one experiment above and write a short observation covering:
 
