@@ -59,20 +59,22 @@ This transformation is the foundation of all machine learning systems.
 
 ## Files in This Folder
 
-* `ch01_numpy.ipynb`
-  → concept-first implementation using NumPy
+## 📂 Files in This Folder
 
-* `ch01_pytorch.ipynb`
-  → real-world implementation using PyTorch
+- [`ch01_numpy.ipynb`](./ch01_numpy.ipynb)  
+  → concept-first implementation using NumPy  
 
-* `exercises.md`
-  → conceptual and reasoning exercises
+- [`ch01_pytorch.ipynb`](./ch01_pytorch.ipynb)  
+  → real-world implementation using PyTorch  
 
-* `solutions.md`
-  → guided answers
+- [`exercises.md`](./exercises.md)  
+  → experiments and exploration  
 
-* `figures/`
-  → diagrams and visual explanations
+- [`solutions.md`](./solutions.md)  
+  → short guidance and answers  
+
+- `figures/`  
+  → diagrams and visual explanations  
 
 ---
 
